@@ -1,0 +1,43 @@
+#+TITLE: Meeting 12-10-2025
+
+* Recap scorsa settimana
+Idee:  
+1. [ ] *Proposta: Storia delle televisione italiana*
+   + scopo: [ didattica ] 
+   + Zapping (canale con san remo, canale con ecc.)
+   + mini giochi (5 categorie)
+   + /-- da definire --/
+   + _chiedere al prof._
+2. [ ] *Creare musica all'interno di un ambiente 360°* 
+   + scopo: [svago, creatività, sperimentale, training]
+   + mettere le note in uno spazio fisico - come ?
+     + Jukebox
+   + modulazione del suono con le mani
+   + direttore d'orchestra
+   + Synth digitale
+   + /-- da capire lato tecnico e lato musica --/
+3. [ ] *Simulazione di un bar*
+   + Scopo: [ training ]
+     + /Come non renderla gioco?/
+   + Interazione con la clientela
+   + Caffé, the, stoviglie, toast, ecc.
+   + Timer delle quest
+4. [ ] *Monta il mobile*
+   + Scopo: [ Training, storia Design, Didattica ]
+   + /-- Da approfondire ? --/
+5. [ ] *Vaccona da macello*
+   + Scopo: sensibilizzare sul [ DENUNCIA ]
+   + Interazioni:
+     + storia a bivi
+6. [ ] *Museo di fantascienza (?)*
+   + /missione: Arianna Insider/
+7. [ ] *Mondo piccolissimo* (alveare, formicaio)
+   + /-- da approfondire --/
+   + Scopo: [ Simulazione, Didattica ] 
+   
+/Quale scopo vi piace di più?/
+- Michele: effetto wow, qualcosa che non hai visto o non puoi vedere IRL
+- Arianna: scopo didattico, sperimentare ed imparare qualcosa; rendere divertente rispetto alla teoria, in modo più interattivo e divertente
+- Davide: scopo didattico, simile alla "simulazione", esplorazione di qualcosa, serious game,
+- Nick: escape from reality
+

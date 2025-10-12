@@ -1,0 +1,52 @@
+#+TITLE: Meeting 1 Progetto Realtà Virtuale
+
+* Proposte
+*Davide & Arianna:*
++ [X] Salendo dalla terra allo spazio (stratosfera, mesosfera, sistema solare) [ DIDATTICO ]
++ [ ] Simulazione imbarco aeroportuale
++ [ ] Simulazione spegnimento incendio in caso di emergenza
++ [ ] Simulazione sulle istruzioni da seguire in caso di emergenza (terremoto, alluvione, bomba)
++ [ ] Simulazione scuola guida
++ [ ] Esplorazione di luoghi videoludici (isola Wii Sport, circuiti Mario Kart);
+  + /museo videoludico di diverse mappe di giochi/
++ [X] Esplorazione di luoghi cult nei media (casa Simpson, Hogwarts, Planet Express)
++ [ ] Esplorazione di luoghi lontani (Piramide di Giza, Muraglia cinese)
++ [ ] Esplorazione della fossa delle Marianne
++ [ ] Rivivere il processo del /Pacciani/ (o altre robe da tribunale):
+  + _Capire come interagire in questa esperienza_, _quanto interagibile_
++ [ ] Rivivere l'ultimo momento di un condannato al rogo (Giovanna d'Arco) [ DIDATTICA, ETICA ]
+  + _Capire come interagire in questa esperienza_, _quanto interagibile_
++ [ ] Rivivere la vita di un personaggio famoso
++ [X] Simulare il ciclo di vita di una vacca da macello 🐄🥩 ⚾🧊
++ [X] Esplorazione di luoghi piccolissimi (corpo umano, formicaio, alveare, giardino)
++ [ ] Esplorazione del ciclo dell'acqua dalla sorgente, alle nostre case, al
++ [ ] Simulazione di un timelapse: e.g. morte termica dell'universo, scioglimento dei ghiacciai, esperienza con un'altra percezione del tempo
++ [X] Nolan style
+
+!!! TENERE CONTO DELL'INTERATTIVITÀ !!!
+(Rivivere esattamente un determinato evento storico può essere poco interattivo e passivo)
+
+- [ ] Progetto artistico
+- [ ] Simulazione stato psicologico di soggetti con malattie di demenza, ecc.
+
+*Michele e Nicola*:
+- [X] Planetario: pianeti, costellazioni [ DIDATTICA ]
+- [-] Museo interattivo: mostra con quadri in cui si può entrare; coesa dallo stesso artista
+  - [X] Museo in cui entri nei quadri
+  - [X] Percorso di quadri
+  - [ ] Commissione artista emergente
+- [ ] IEEVR: beyond the slides (siamo in 12!) 💀
+- [X] Creating Coding ? 🎰
+
+* Orari e Disponibilità
+
+|         | *Giorni*            | *Note*                         |
+| Davide  | Tutti no merc     | non dopo le 22               |
+| Arianna | Lun, Ven, no Mart | Lavoro da 14.30 fino a 19.30 |
+| Michele | Tutti i giorni    | post 19.00 da lun a ven      |
+| Nick    | Tutti i giorni    | Fatica il mart e Merc        |
+
+* Resource Sharing
+
++ *Modelli:* Google Drive, Dropbox
++ *Codice*: Git + Github
