@@ -34,10 +34,9 @@ Idee:
 7. [ ] *Mondo piccolissimo* (alveare, formicaio)
    + /-- da approfondire --/
    + Scopo: [ Simulazione, Didattica ] 
-   
+
 /Quale scopo vi piace di più?/
 - Michele: effetto wow, qualcosa che non hai visto o non puoi vedere IRL
 - Arianna: scopo didattico, sperimentare ed imparare qualcosa; rendere divertente rispetto alla teoria, in modo più interattivo e divertente
 - Davide: scopo didattico, simile alla "simulazione", esplorazione di qualcosa, serious game,
 - Nick: escape from reality
-

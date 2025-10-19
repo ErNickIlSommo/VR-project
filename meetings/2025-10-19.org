@@ -1,0 +1,92 @@
+:PROPERTIES:
+:EXPORT_DATE: <2025-10-19>
+:END:
+#+TITLE: Meeting 10-10-2025
+
+* Topic della Chiamata
+
+- [X] Scelta definitiva del progetto: ALVEARE
+- [X] 5?
+- [X] Discorso Motivazionale di WISH
+- [X] Prima Ricerca sul progetto
+
+
+Criticità: interazioni sul grabbing
++ Polline
++ Volo
++ Cadaveri
+
+* Ricerca sul Progetto
+** Forma degli alveari
+:PROPERTIES:
+:ID:       EB3726C5-D11B-40FB-AF75-2325E611C51F
+:END:
+
+Alveari naturali:
++ Settori
++ Piani
+
+Arnie (artificiali): più regolari rispetto agli alveari naturali
+
+
+#+DOWNLOADED: screenshot @ 2025-10-19 11:08:22
+[[file:Ricerca_sul_Progetto/2025-10-19_11-08-22_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2025-10-19 11:08:32
+[[file:Ricerca_sul_Progetto/2025-10-19_11-08-32_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2025-10-19 11:08:41
+[[file:Ricerca_sul_Progetto/2025-10-19_11-08-41_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2025-10-19 11:13:00
+[[file:Ricerca_sul_Progetto/2025-10-19_11-13-00_screenshot.png]]
+
+** Info Generali
+:PROPERTIES:
+:ID:       35181C53-6D59-40B6-AED0-61337930E8E4
+:END:
+
+Ruoli delle Api:
+1. Regina: l'unica in grado di deporre uova e moltiplicare lo sciame.
+   + La più stupida
+2. Operaia: curano l'ape regina e sono tuttofare dell'alveare
+3. Esploratrice: anziane sacrificabili, cercano luoghi da impollinare
+4. Bottinatrice: trasportano materie prime (polline, nettare, acqua e propoli)
+5. Spazzina: puliscono l'alveare e si disfano delle carcasse
+6. Nutrici: nutrono le larve, trasformano il polline in pappa reale
+7. Guardiane: difendono l'alveare, si sacrificano per l'alveare
+8. Fuco: maschi delle api, fecondano la regina e vengono espulsi dall'alveare in mancanza di risorse
+9. Ceraiola: produce la cera, si occupa della costruzione e riparazione deo favi
+10. Ventilatrice: sbatte le ali per mantenere stabile la temperatura
+
+Vista   
++ Non vedono i rossi e IR
++ Hanno lo stesso range ma spostato
++ Vedono violetti e ultravioletti
++ Sensibili al giallo, verde, blu e viola
+Da questo deriva l'attrazione a determinati fiori
+
+
+#+DOWNLOADED: screenshot @ 2025-10-19 11:20:51
+[[file:Ricerca_sul_Progetto/2025-10-19_11-20-51_screenshot.png]]
+
+Per difendere l'alveare: creano una palla di api intorno al nemico, che muore dal calore dovuto allo sbattere delle ali.
++ Chi partecipa all'attacco muore prima
+
+TTL:  
++ Ape operaia: fino a 6 mesi (inverno) o 30-40 giorni
++ Regina: fino a 6-7 anni
++ Fuco: 50 giorni
++ Api bechine: 12 giorni di vita
+
+Metodi di comunicazione:
++ Bottinatrice hanno un metodo per comunicare alle compagne dove è situata una fonte di cibo. Comunicazione attraverso la danza circolare, e danza dellà addome
+
+  
+
+* Possibili attività dell'alveare
+
++ Formazione dell'alveare
++ Distinzione dei ruoli
++ 
