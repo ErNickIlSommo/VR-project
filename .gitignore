@@ -100,3 +100,4 @@ InitTestScene*.unity*
 
 .vscode
 /[Aa]ssets/.DS_Store/
+.DS_Store
