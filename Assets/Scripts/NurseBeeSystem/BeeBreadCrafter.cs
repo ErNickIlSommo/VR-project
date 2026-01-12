@@ -99,6 +99,10 @@ public class BeeBreadCrafter : MonoBehaviour, IXRSelectFilter
     }
     private void OnSelectEntered(SelectEnterEventArgs args)
     {
+        // IXRSelectInteractable interactable = args.interactableObject;
+        // var t = interactable?.transform;
+        // if(!t) return;
+        
         GameObject obj = args.interactableObject.transform.gameObject;
         
         WrapperIngredient wrapper = obj.GetComponent<WrapperIngredient>();
