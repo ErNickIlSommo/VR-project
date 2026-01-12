@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0dfd58c980f84b929ab79bde5c7eef6, type: 3}
   m_Name: Pollen
   m_EditorClassIdentifier: Assembly-CSharp::Ingredient
-  name: 
-  cooldown: 0
-  prefab: {fileID: 0}
+  id: 2
+  ingredientName: Pollen
+  cooldown: 3
+  prefab: {fileID: 6524203655936166656, guid: 1a437eb1e04394149a5abdea104d552b, type: 3}

@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0dfd58c980f84b929ab79bde5c7eef6, type: 3}
   m_Name: RoyalJelly
   m_EditorClassIdentifier: Assembly-CSharp::Ingredient
-  name: 
-  cooldown: 0
-  prefab: {fileID: 0}
+  id: 3
+  ingredientName: Royal Jelly
+  cooldown: 7
+  prefab: {fileID: 1001696704318992135, guid: a5cdcb14acdb2401fb9579006763b3e1, type: 3}

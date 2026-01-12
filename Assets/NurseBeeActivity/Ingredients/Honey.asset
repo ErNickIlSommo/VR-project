@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0dfd58c980f84b929ab79bde5c7eef6, type: 3}
   m_Name: Honey
   m_EditorClassIdentifier: Assembly-CSharp::Ingredient
-  name: 
-  cooldown: 0
-  prefab: {fileID: 0}
+  id: 1
+  ingredientName: Honey
+  cooldown: 4
+  prefab: {fileID: 1197377713968337119, guid: ffbfeecf2c7fa45eabbd1e2ba10dcd1a, type: 3}

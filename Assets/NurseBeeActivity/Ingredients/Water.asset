@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0dfd58c980f84b929ab79bde5c7eef6, type: 3}
   m_Name: Water
   m_EditorClassIdentifier: Assembly-CSharp::Ingredient
-  name: 
+  id: 4
+  ingredientName: Water
   cooldown: 0
-  prefab: {fileID: 0}
+  prefab: {fileID: 7420052729547371739, guid: c28cb018687c7431ea9a3ef1c7e61e30, type: 3}

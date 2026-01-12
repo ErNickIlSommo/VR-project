@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0dfd58c980f84b929ab79bde5c7eef6, type: 3}
   m_Name: BeeBread
   m_EditorClassIdentifier: Assembly-CSharp::Ingredient
-  name: 
-  cooldown: 0
-  prefab: {fileID: 0}
+  id: 5
+  ingredientName: Bee Bread
+  cooldown: 1
+  prefab: {fileID: 68875734287247953, guid: 496437f16773b44d08a8a03fb2b826ba, type: 3}
